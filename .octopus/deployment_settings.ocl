@@ -1,3 +1,4 @@
+deployment_changes_template = "test"
 release_notes_template = "test"
 
 connectivity_policy {
